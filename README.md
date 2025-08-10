@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1>
-<h3 align="center">Computer Engineering student from Turkey.</h3>
-
-- 🌱 I’m currently learning **Web Development** and **Machine Learning**
+<h3 align="center">Computer Engineer from Turkey.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
